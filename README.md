@@ -1,1 +1,1 @@
-# City-of-LA-Workers-Compensation-Project
+# City of LA Workers' Compensation Project
